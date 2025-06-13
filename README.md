@@ -1,6 +1,6 @@
 # Smart Email Reply Generator
 
-**Smart Email Reply Generator** is an AI-powered Chrome extension that enhances your Gmail experience by automatically generating intelligent reply suggestions. It seamlessly integrates a custom Gmail button ("AI-Reply") to provide quick, context-aware responses using Grok AI via the Spring AI framework.
+**Smart Email Reply Generator** is an AI-powered Chrome extension designed to enhance your Gmail experience by generating intelligent, context-aware reply suggestions. At its core, the system leverages **Spring AI** to integrate with Grok AI, delivering real-time response generation via a seamless "AI-Reply" button embedded within Gmail.
 
 ---
 
