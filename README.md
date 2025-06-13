@@ -14,7 +14,7 @@
   - [3. Browser Extension Setup](#3-browser-extension-setup)
 - [Usage](#usage)
 - [Contributors](#contributors)
-
+- [Screenshots](#screenshots)
 
 ---
 
@@ -70,6 +70,8 @@ Click Load unpacked and select the email-EXT folder
 
 Visit Gmail – the AI-Reply button will now appear beside the "Send" button
 
+---
+
 ## Usage
 
 - Open Gmail and read or compose an email.
@@ -80,4 +82,18 @@ Visit Gmail – the AI-Reply button will now appear beside the "Send" button
 
 - Or use frontend for generating replies 
 
-- Copy paste the original email and select tone then hit enter 
+- Copy paste the original email and select tone then hit enter
+
+---
+
+## Contributors
+- @dhanush-0212
+
+---
+
+## Screenshots
+
+![UI](https://github.com/user-attachments/assets/6bd668cf-e687-4427-888c-e561d7a94ce3)
+![Screenshot 2025-06-13 215628](https://github.com/user-attachments/assets/92d1b5e8-34a8-4b15-a73f-a544770e8be3)
+![Screenshot 2025-06-13 215748](https://github.com/user-attachments/assets/7b608a47-ff8d-4cad-9d63-6551f2a1f626)
+![Screenshot 2025-06-13 215955](https://github.com/user-attachments/assets/9aaf1d9b-7603-4fc5-9414-8edfcaaa034e)
